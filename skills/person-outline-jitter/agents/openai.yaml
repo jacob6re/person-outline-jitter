@@ -1,0 +1,4 @@
+interface:
+  display_name: "人物手绘动态描边"
+  short_description: "识别视频人物，在轮廓外添加随动作跟随、轻微手绘抖动的白色圆头虚线"
+  default_prompt: "用 $person-outline-jitter 为这段人物视频添加白色手绘抖动虚线描边，并给我可播放的预览。"
