@@ -4,6 +4,8 @@
 
 ## 安装到 AI 编程助手
 
+安装命令需要 Node.js 22.20.0 或更新版本（本次使用 Node.js 24 验证）。
+
 ```bash
 npx -y skills add jacob6re/person-outline-jitter -g --all
 ```
